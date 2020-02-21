@@ -1,1 +1,1 @@
-# Class25
+# Box Class
